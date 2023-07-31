@@ -28,5 +28,9 @@ print(round(3.99545, 2))
 print(pow(25, 0.5))
 print(25 ** 0.5)
 
-
-
+p = 5
+y = 7
+w = p + y
+p = y
+y = 10
+p = 2 + w + y
